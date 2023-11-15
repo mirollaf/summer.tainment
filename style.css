@@ -1,6 +1,9 @@
 body{
     background-color: dimgray;
 }
+header{
+    color: rgb(12, 13, 78)5)255, 0);
+}
 .carousel {
     margin: auto;
     height: 40%;
@@ -11,5 +14,5 @@ h1{
     color: rgb(65, 211, 211);
 }
 h5 {
- color:rgb(240, 46, 175);
+ color:rgb(221, 50, 164);
 }
